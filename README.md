@@ -115,7 +115,7 @@ You can install these libraries individually or using a requirements.txt file.
 We would like to thank the following individuals and groups for their contributions and support:
 
 **Team Members:**
-- Mouad Benchekroun mhamdi: Preprocessing and Data Preparation
+- Mouad Benchekroun Mhammedi: Preprocessing and Data Preparation
 - Ali Benchrifa: Baseline Model Implementation
 - Marouane Benbrahim: Advanced Models
 - Aymane Jouhari: Scaling, Results Visualization, and Analysis
