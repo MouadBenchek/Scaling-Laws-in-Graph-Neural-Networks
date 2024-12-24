@@ -10,7 +10,7 @@ This repository explores the scaling laws in Graph Neural Networks (GNNs) throug
 - [Notebooks Overview](#notebooks-overview)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
-- [Contributing](#contributing)
+- [Contributions](#contributing)
 - [License](#license)
 
 ## Overview
